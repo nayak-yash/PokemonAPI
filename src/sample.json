@@ -1,0 +1,59 @@
+{
+  "content": [
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "type": "Poison"
+    },
+    {
+      "id": 2,
+      "name": "Ivysaur",
+      "type": "Poison"
+    },
+    {
+      "id": 3,
+      "name": "Charmander",
+      "type": "Fire"
+    },
+    {
+      "id": 4,
+      "name": "Charmeleon",
+      "type": "Fire"
+    },
+    {
+      "id": 5,
+      "name": "Squirtle",
+      "type": "Water"
+    },
+    {
+      "id": 6,
+      "name": "Wartortle",
+      "type": "Water"
+    },
+    {
+      "id": 7,
+      "name": "Caterpie",
+      "type": "Bug"
+    },
+    {
+      "id": 8,
+      "name": "Metapod",
+      "type": "Bug"
+    },
+    {
+      "id": 9,
+      "name": "Pikachu",
+      "type": "Electric"
+    },
+    {
+      "id": 10,
+      "name": "Raichu",
+      "type": "Electric"
+    }
+  ],
+  "pageNo": 0,
+  "pageSize": 10,
+  "totalElements": 20,
+  "totalPages": 2,
+  "last": false
+}
